@@ -1,0 +1,306 @@
+Case
+OBL	Oblique	Content	Case
+IND	Inducive	Agent and patient (undergoes self-initiated action)	Case
+ABS	Absolutive	Patient	Case
+ERG	Ergative	Agent	Case
+EFF	Effectuative	Enabler (initiates chain of events with a given result)	Case
+AFF	Affective	Experiencer (undergoes non-initiated/unwilled experiential state)	Case
+DAT	Dative	Indirect object OR “to have”	Case
+INS	Instrumental	Used by (potentially implied) agent to accomplish action	Case
+ACT	Activative	Experiencer of a hypothetical situation	Case
+DER	Derivative	Inanimate force of nature as agent OR non-deliberate stimulus	Case
+SIT	Situative	Background context (“because of …”/“due to …”)	Case
+POS	Possessive	Alienable control/oversight	Case
+PRP	Proprietive	Official or possession accepted by society	Case
+GEN	Genitive	Inalienable/intrinsic	Case
+ATT	Attributive	Experiences the effect of …	Case
+PDC	Productive	Creator/author/originator	Case
+ITP	Interpretative	“As seen by …”/“through the eyes of …”	Case
+OGN	Originative	Literal/figurative origin	Case
+PAR	Partitive	Quantitative/content-to-container (alone = “some of …”)	Case
+CRS	Contrastive	“Instead of …”/“as opposed to …”	Case
+CPS	Compositive	Literal/figurative substance OR thing consumed in an action	Case
+PRD	Predicative	Dependent/relying on (not caused by -- use DER or INS)	Case
+MED	Mediative	Medium through which something travels or is achieved	Case
+APL	Applicative	Current utilization/purpose (“used for …”/“meant for …”)	Case
+PUR	Purposive	Intended/general utilization/purpose	Case
+CSD	Considerative	“In accordance with …”/“In …’s opinion”	Case
+ESS	Essive	Contextual role/name (“as an equal”/“They called him …”)	Case
+ASI	Assimilative	Simile (“like …”)	Case
+FUN	Functive	Adverbially (“to speak nonsense”/“to dance gracefully”)	Case
+TFM	Transformative	“to …”/“until …”/“into …”	Case
+REF	Referential	“regarding …”/“pertaining to …”	Case
+CLA	Classificative	Arrangement (“in rows”/“one after another”/“[to count] by fives”)	Case
+CNV	Conductive	“with respect to …”/“considered within the context of …“	Case
+IDP	Interdependent	Mutually dependent (“nation’s leader”/“army general”)	Case
+BEN	Benefactive	“for the sake of …”/“out of respect for …”	Case
+TSP	Transpositive	“on behalf of …”/“in place of …”/“instead of …”/“for …”	Case
+CMM	Commutative	“in exchange for …”	Case
+COM	Comitative	Accompaniment; not necessarily same action (“with …”)	Case
+CNJ	Conjunctive	Accompaniment; same activity (“along with …”/“alongside …”)	Case
+UTL	Utilitative	Being utilized (not necessarily for the present action)	Case
+ABE	Abessive	Lack of accompaniment; opposite of Comitative	Case
+CVS	Conversive	Exception to a hypothetical situation (“unless …”/“if not for …”)	Case
+COR	Correlative	Abstract association (“spatial coordinates”/“relative to …”)	Case
+DEP	Dependent	“Depending on …”	Case
+PVS	Provisional	“In the case of …”/“Provided that there is …” (circumstantial)	Case
+PTL	Postulative	“In the case of …”/“If …” (implying causal relationship)	Case
+CON	Concessive	“Despite …”/“In spite of …”/“Regardless of …”/“No matter what”	Case
+EXC	Exceptive	“Except for …”/“Excluding …”	Case
+AVR	Aversive	“For fear of …”/“To avoid …”	Case
+CMP	Comparative	“As opposed to …”/“Versus …” (not implying mutual exclusivity)	Case
+SML	Simultaneitive	Same time	Case
+ASS	Assessive	“Per …”/“for each …”	Case
+CNR	Concursive	Beginning to end (“during …”)	Case
+ASC	Accessive	Instant in time (“when …”/“upon impact”)	Case
+DFF	Diffusive	Fuzzy time period, but one event (“over the course of …”)	Case
+PER	Periodic	Multiple events scattered throughout	Case
+PRO	Prolapsive	Event takes entire duration (“through …”)	Case
+PCV	Precursive	“Before …”/“prior to …”/“preceding …”	Case
+PCR	Postcursive	“After …”/“subsequent to …”/“following …”	Case
+ELP	Elapsive	Time passed since event (“… ago”)	Case
+ALP	Allapsive	Time until event (“… from now”/”in …”)	Case
+INP	Interpolative	Duration (“3-minute song”/“each lasting …”)	Case
+EPS	Episodic	Recurring time period (“every three days”/“each year”/“by day”)	Case
+PLM	Prolimitive	Temporal limit (“by …”/“by evening”)	Case
+LIM	Limitive	Event culminating in an anticipatory context (“in time for …”)	Case
+LOC	Locative	Location (“in …”/“by …”/“at …”)	Case
+ORI	Orientative	Direction serving as forward (“feet-first”/“sideways motion”)	Case
+PSV	Procursive	Orientational reference point (“turned her back on him”)	Case
+ALL	Allative	Motion towards (“towards …”/“headed home”)	Case
+ABL	Ablative	Motion away from (“from the direction of …”)	Case
+NAV	Navigative	“down the street”/“diagonally”	Case
+VOC	Vocative	Direct address (“O, time!”/“This way, sir.”)	Case
+CMP1	Comparative 1	X was previously less M than Y	Case
+CMP2	Comparative 2	X was previously more M than Y	Case
+CMP3	Comparative 3	X is still less M than Y	Case
+CMP4	Comparative 4	X is still more M than Y	Case
+CMP5	Comparative 5	X is now less M than Y	Case
+CMP6	Comparative 6	X is now more M than Y	Case
+CMP7	Comparative 7	X was previously as M than Y	Case
+CMP8	Comparative 8	X’s M-ness relative to Y is unknown, inapplicable, or irrelevant	Case
+…A	Comparative A	X (or X and Y) (still) isn’t very M	Case
+…B	Comparative B	X (or Y) meets/exceeds some external standard/expectation	Case
+…C	Comparative C	Both X and Y meet/exceed some external standard/expectation	Case
+Configuration
+UNI	Uniplex	A single object/occurrence	Configuration
+DPX	Duplex	A pair of objects; an occurrence consisting of two complementary halves	Configuration
+DCT	Discrete	A collection of similar/identical objects; similar/identical repetitions of an event	Configuration
+AGG	Aggregative	A collection of assorted objects; various different events	Configuration
+SEG	Segmentative	A collection of similar/identical objects considered holistically as one unit; many identical events that repeat because of the nature of the event	Configuration
+CPN	Componential	A collection of assorted objects considered holistically as one unit; a connected series of repetitions that are not identical	Configuration
+COH	Coherent	A collection of similar/identical objects connected as a whole; a single event formed from rapid repetition of identical occurrences	Configuration
+CST	Composite	A collection of assorted objects connected as a whole; a single event formed from rapid repetition of different occurrences	Configuration
+MLT	Multiform	A “fuzzy” collection of objects that share a common characteristic; events with varying spatio-temporal similarity	Configuration
+Affiliation
+CSL	Consolidative	Naturally occurring or neutral to function/purpose	Affiliation
+ASO	Associative	Unified; sharing a common function/purpose	Affiliation
+VAR	Variative	Different/opposing functions/purposes (“for various reasons”)	Affiliation
+COA	Coalescent	Complementary functions/purposes	Affiliation
+Perspective
+M	Monadic	Bounded embodiment; an event “accessible” in space and timePerspective	Perspective
+U	Unbounded	Separate entities; spatio-temporally “inaccessible” whole/portion is relevant	Perspective
+N	Nomic	All instances throughout space and time; a universal pattern/law of nature	Perspective
+A	Abstract	The idea of X, X-ness; “timeless” verb form (infinitives/gerundives)	Perspective
+Extension
+DEL	Delimitive	The whole	Extension
+PRX	Proximal	Part	Extension
+ICP	Inceptive	The start	Extension
+TRM	Terminative	The end	Extension
+GRA	Graduative	Fading in at start	Extension
+DPL	Depletive	Fading out at end	Extension
+Essence
+NRM	Normal	Factual (indicative)	Essence
+RPV	Representative	Unsure, “might” or “imagines” or “seems” (“he thought he saw a penguin”/“He saw what he thought was a penguin”)	Essence
+Function
+STA	Stative	State/condition (“to be in a state of preparing food")	Function
+DYN	Dynamic	To do what X does (“to prepare food”)	Function
+MNF	Manifestive	X=Y equivalence (“to be prepared food”)	Function
+DSC	Descriptive	To appear in the manner of (“to be like prepared food”)	Function
+Mood
+FAC	Factual	supposition's factuality: Certain or nonexistent; statement's factuality: Certain	Mood
+SUB	Subjunctive	supposition's factuality: Certain; statement's factuality: Uncertain	Mood
+ASM	Assumptive	supposition's factuality: Uncertain; statement's factuality: Certain if supposition is true	Mood
+SPC	Speculative	supposition's factuality: Uncertain; statement's factuality: Uncertain	Mood
+COU	Counterfactive	supposition's factuality: False; statement's factuality: Would be certain if supposition were true	Mood
+HYP	Hypothetical	supposition's factuality: False; statement's factuality: Would be uncertain if supposition were true	Mood
+IPL	Implicative	supposition's factuality: Certain (implied by fact); statement's factuality: Certain because supposition is true	Mood
+ASC	Ascriptive	supposition's factuality: Certain (implied by fact); statement's factuality: Uncertain	Mood
+Illocution
+ASR	Assertive	General statement	Illocution
+DIR	Directive	Wants the listener to do something; call to action	Illocution
+IRG	Interrogative	Question	Illocution
+ADM	Admonitive	Warning (“be wary of …”)	Illocution
+HOR	Hortative	Wishing (“if only …”)	Illocution
+DEC	Declarative	Formal announcement; effecting  a change per se	Illocution
+Phase
+CTX	Contextual	Single event; relatively brief	Phase
+PUN	Punctual	Single instant	Phase
+ITR	Iterative	Rapidly repeated punctual	Phase
+REP	Repetitive	On-off steady pattern	Phase
+ITM	Intermittent	Repeated punctual events with duration between	Phase
+RCT	Recurrent	Slow repetition of contextual event	Phase
+FRE	Frequentative	Punctual occurrences repeated at intervals	Phase
+FRG	Fragmentative	Random pattern of punctual events	Phase
+FLC	Fluctuatve	Random pattern of punctual and contextual	Phase
+Sanction
+PPS	Propositional	Neutral proposition or objective fact	Sanction
+EPI	Epistemic	Based on shared knowledge or human convention	Sanction
+ALG	Allegative	Subjective or open to challenge/refutation	Sanction
+IPU	Imputative	Rebuttable assertion otherwise assumed to be true	Sanction
+RFU	Refutative	Rebuttal based on shared knowledge/convention	Sanction
+REB	Rebuttative	Rebuttal based on objective fact	Sanction
+THR	Theoretical	Testable hypothesis/theory	Sanction
+EXV	Expatiative	Hypothesis/theory that may not be able to be verified	Sanction
+AXM	Axiomatic	Objective, universally true fact that cannot be argued with	Sanction
+Valence
+MNO	Monoactive	No participation by second party	Valence
+PRL	Parallel	Same exact activity	Valence
+CRO	Corollary	Related activity	Valence
+RCP	Reciprocal	“... at each other”	Valence
+CPL	Complementary	Different activities, but necessary to complete the action together	Valence
+NNR	Nonrelational	Unrelated (“... while they did something else”)	Valence
+DUP	Duplicative	Second party copies/repeats activity of first party	Valence
+DEM	Demonstrative	Teach by demonstration	Valence
+RES	Resistive	Second party is unwilling (“... anyway”/“nevertheless, …”)	Valence
+IMT	Imitative	Second party imitates first party	Valence
+CNG	Contingent	Second party engages in next stage (“start campfire” implies “cook food”)	Valence
+PTI	Participative	“take part in …”	Valence
+IDC	Indicative	Second party perceives a cue/nuance/implication from first party	Valence
+MUT	Mutual	“take turns …”/“alternate …”	Valence
+Version
+PRC	Processual	Not goal-oriented	Version
+CPT	Completive	Intended to achieve an anticipated outcome	Version
+INE	Ineffectual	Processual, but action doesn’t actually happen	Version
+INC	Incompletive	Completive, but action doesn’t actually happen	Version
+PST	Positive	Processual, but action succeeded	Version
+EFC	Effective	Completive, but action succeeded	Version
+PSM	Presumptive	source trustworthy: Yes; verifiable: Yes	Hearsay
+Hearsay
+PSM2	Presumptive 2	source trustworthy: Yes; verifiable: Unknown	Hearsay
+PPT	Purportive	source trustworthy: Yes; verifiable: No	Hearsay
+PPT2	Purportive 2	source trustworthy: Unknown; verifiable: Yes	Hearsay
+CJT	Conjectural	source trustworthy: Unknown; verifiable: Unknown	Hearsay
+DUB	Dubitive	source trustworthy: Unknown; verifiable: No	Hearsay
+TEN	Tentative	source trustworthy: No; verifiable: Yes	Hearsay
+PUT	Putative	source trustworthy: No; verifiable: Unknown	Hearsay
+IPB	Improbably	source trustworthy: No; verifiable: No	Hearsay
+Level
+EQU	Equative	X is as M as Y/before (X = Y)	Level
+SUR	Surpassive	X is more M than Y/before (X > Y)	Level
+DFC	Deficient	X is less M than Y/before (X < Y)	Level
+OPT	Optimal	X is at its most M possible	Level
+MIN	Minimal	X is at its least M possible	Level
+SPL	Superlative	X is at its most M yet	Level
+INF	Inferior	X is at its least M yet	Level
+SPQ	Superequative	X is at least as M as Y/before (X ≤ Y)	Level
+SBE	Subequative	X is at most as M as Y/before (X ≥ Y)	Level
+Format
+SCH	Schematic	Characterization (STA); manner (DYN); equivalent in identity (MNF); superficial appearance/resemblance (DSC)	Format
+ISR	Instrumentative	Means/cause/instrument (eg. club + hit = hit with club)	Format
+ATH	Authoritative	Indirect/enabling cause (eg. sing + forget = forget because of singing)	Format
+RSL	Resultative	Concurrent result (first [Y], then X as a result)	Format
+SBQ	Subsequent	Cause-and-effect purpose ([Y] in order to X)	Format
+CCM	Concomitant	Unrelated simultaneous event (“X while [Y]”)	Format
+OBJ	Objective	Patient (eg. fish + gather = gather fish)	Format
+PRT	Precurrent	Initial event immediately preceding main verb (not causal)	Format
+AFI	Affinitive	X is associated with/represents/acts on behalf of [Y]	Format
+Validation
+CNF	Confirmative	Direct observation/knowledge and verifiable by others	Validation
+ASM	Affirmative	Direct observation/knowledge but unknown verifiability by others	Validation
+RPT	Reportive	Direct observation/knowledge but unverifiable by others	Validation
+INF	Inferential	Inference	Validation
+ITU	Intuitive	Intuition/feeling	Validation
+Modality
+DES	Desiderative	Want	Modality
+ASP	Aspirative	Wish/hope	Modality
+EPC	Expectative	Expectation	Modality
+CRD	Credential	Belief (“I think …”)	Modality
+REQ	Requisitive	Request (“I’d like to …”/“I request …”)	Modality
+EXH	Exhortative	Demand (“I demand that …!”/“Let …!”)	Modality
+OPR	Opportunitive	“can”/“could”/“be able” meaning “have the opportunity to”	Modality
+CPC	Capacitive	“can”/“could”/“be able” meaning “have the ability/capacity to”	Modality
+PRM	Permissive	“can”/“could”/“be able” meaning “have the permission to”	Modality
+PTN	Potential	“can”/“could”/“be able” meaning “have the potential/possibility to”	Modality
+CLS	Compulsory	Compulsory obligation (“must”/“have to”)	Modality
+OBG	Obligative	Optional but preferential obligation (“should”/“ought to”)	Modality
+IMS	Impositive	Expectation (“supposed to”/“expected to”/“be to”)	Modality
+ADV	Advocative	Advocating a position (“suggest that”/“propose that”)	Modality
+ITV	Intentive	Intention (“intend to”/“plan to”)	Modality
+ANT	Anticipative	“look forward to”/“eagerly await”’	Modality
+DSP	Dispositive	Willingness (“willing to”)	Modality
+PRE	Preparative	Readiness (“ready to”/“prepared to”)	Modality
+NEC	Necessitative	Necessity (“need to”/“necessary to”)	Modality
+DCV	Decisive	“decide to”/“choose to”	Modality
+PTV	Proclivitive	Tendency (“tend to”/“prone to”)	Modality
+VOL	Voluntative	“offer to”/“volunteer to”	Modality
+ACC	Accordative	“agree to”	Modality
+ICL	Inclinative	“feel like”/“be up for”	Modality
+CML	Compulsive	“feel a need to”	Modality
+DVR	Divertive	“like to”/“enjoy”	Modality
+DVT	Devotive	“be devoted to”/“be committed to”	Modality
+PFT	Preferential	“prefer”/“would rather”	Modality
+IPS	Impressional	Subjective belief/impression (“have a hunch that …”/“feel that …”)	Modality
+PMS	Promissory	“promised that …”/“swears that …”	Modality
+Aspect
+RTR	Retrospective	“have already …ed” (M); past tense (U); “... and it’s always been that way” (N/A)	Aspect
+PRS	Prospective	future tense (M); future perfect (“will have …ed”) (U); “... and it’ll always be that way” (N/A)	Aspect
+HAB	Habitual	“always …”/“continues to …” (M); “used to …” (U)	Aspect
+PRG	Progressive	“in the midst of …ing”	Aspect
+IMM	Imminent	“on the verge of …ing”/“about to …”	Aspect
+PCS	Precessive	“just recently …ed”	Aspect
+REG	Regulative	Be participating/involved in an unbounded action (“engaged in”)	Aspect
+EXP	Experiential	“within the realm of one’s experience”/“at any point”	Aspect
+RSM	Resumptive	Resume an activity after previously stopping	Aspect
+CSS	Cessative	Stop an activity	Aspect
+RCS	Recessative	Stop an activity after previously having stopped/resumed	Aspect
+PAU	Pausal	Pause an activity with the intent of continuing later	Aspect
+RGR	Regressive	Resume an activity after a long hiatus involving an intervening change of state/situation	Aspect
+PCL	Preclusive	“all at once”/“all in one go”	Aspect
+CNT	Continuative	Persist in an activity (“still …ing”/“keep on …ing”/“no longer …ing”)	Aspect
+ICS	Incessative	“on and on”	Aspect
+PMP	Preemptive	First time (“for once”/“at last”/“finally”/“for the first time”)	Aspect
+CLM	Climactic	Last time (“once and for all”/“for the last time”)	Aspect
+PTC	Protractive	Long-delayed (“a long time coming”) (CTX/PUN); Lasting a long time (“for quite a while”) (other phases)	Aspect
+TMP	Temporary	“for now”/“for the time being”	Aspect
+MTV	Motive	Implies physical absence (“go off …ing”)	Aspect
+CSQ	Consequential	Proceeding despite adverse consequences (“go ahead and …”/ “anyway”)	Aspect
+SQN	Sequential	Sequential progression with implied culmination point (“check off”/“die off”)	Aspect
+EPD	Expeditive	Haste (“hurry up and …”)	Aspect
+DCL	Disclusive	“it turns out that …”/ “turns out to be …”	Aspect
+CCL	Conclusive	Direct outcome (“ended up …”)	Aspect
+CUL	Culminative	Eventual outcome (“eventually …”/“it got to the point where …”)	Aspect
+IMD	Intermediative	“at some point …”/“somewhere along the way …”	Aspect
+TRD	Tardative	Lessens/dwindles in energy/intensity (“get tired of …”/“peter off”/“trail off”)	Aspect
+TNS	Transitional	Initial stage, implying long-term initialization (“take up …”/“start to …”)	Aspect
+ITC	Intercommutative	Sequential reciprocity (“… back”)	Aspect
+CSM	Consumptive	Interferes with or prevents other events (“spend one’s time …”/“… away”)	Aspect
+Context
+EXT	Existential	Neutral	Context
+FNC	Functional	Specific (and subjective) contextual meaning/implications	Context
+RPS	Representational	Metaphor	Context
+AMG	Amalgamative	Emotional impact + cultural significance	Context
+Bias
+ASU	Assurative	“of course”/“after all”/“needless to say”; “I told you so!”/“You see?!”	Bias
+HPB	Hyperbolic	“so totally”; one-upmanship (“That’s nothing, wait ‘till you hear this!”)	Bias
+COI	Coincidental	“just so happened that …”; “as luck would have it”/“luckily”/“fortunately”	Bias
+ACP	Acceptive	“it’s just as well that …”; “like it or not”/ “… and there’s nothing to be done about it!”	Bias
+RAC	Reactive	“My goodness!”; “Wow!”/“Amazing!”	Bias
+STU	Stupefactive	“It’s a wonder that …”; “Well I’ll be!”/“Who would’ve thought that …”	Bias
+CTV	Contemplative	“I wonder how …”/“That’s odd …”/“I don’t get it”/“Hmmmm”; “Huh? What do you mean?”	Bias
+DPV	Desperative	“I’m afraid that …”/“I don’t know how to say this, but …”; “Oh, no!”	Bias
+RVL	Revelative	“No wonder …”/“So that’s why …”; “Aha!”/“Well, well, well!”	Bias
+GRT	Gratificative	“I like to …”; “Oh, there’s nothing like …”	Bias
+SOL	Solicitive	“Please …”; “C’mon!”/“What are you waiting for?”/“So … already!”	Bias
+SEL	Selective	“look at it this way”/“as I see it”; “… and that’s all there is to it”/ “… and that’s that!”	Bias
+IRO	Ironic	Understatement; Sarcastic understatement (“Well, that was fun!” after an unpleasant experience)	Bias
+EXA	Exasperative	“Look, don’t you get it?”/“I’m trying to tell you”; Mockery or echolalia (repeating of a person’s words back at them in contempt)	Bias
+LTL	Literal	“technically speaking”/“context aside for a moment …”; “strictly speaking”/“to put it in clinical terms”	Bias
+CRR	Corrective	“What I meant to say is …”/“I mean, …”; “in a manner of speaking”/“for all intents and purposes”	Bias
+EUP	Euphemistic	“in other words”; “Let’s just say that …”/“Well, let me put it this way”	Bias
+CYN	Cynical	“You mean to say that …!?”/“you gotta be kidding me”; “You just had to go and …”	Bias
+CTP	Contemptive	“I don’t like the fact that …”/“It bothers me that …”; “What nonsense!”/“Bull***t!”	Bias
+DSM	Dismissive	“Sorry, but …”/“It’s nothing; it’s just …”; “Is that it?”/“So what?”	Bias
+IDG	Indignative	“I’m sorry, what?”/“You want me to do what?”; “The nerve!”/“How dare …”	Bias
+SGS	Suggestive	“What if …”; “Consider this: …”/“Assume for the sake of argument that …”	Bias
+PPV	Propositive	“How about …”/“We could …”; “this is your last chance”/“it’s now or never”	Bias
